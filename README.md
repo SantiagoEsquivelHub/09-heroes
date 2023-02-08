@@ -1,2 +1,2 @@
 # Git+GitHub
-Learning Git and GitHub :D
+Learning Git and GitHub :P
