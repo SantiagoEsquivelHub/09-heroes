@@ -6,5 +6,5 @@
 4. Girardot
 5. Cucuta
 6. Cali
-7. meti girardotttttttt
-8. meti girardot otraaaaaaaaaaaa
+7. meti girardot
+8. meti itagui
